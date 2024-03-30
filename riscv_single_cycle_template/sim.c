@@ -1,3 +1,6 @@
+# Group Members: Chad Abboud, Archange Lombo, Luis Pena Mateo
+# HW Assignment 3 - Writing a simulator for single-cycle RISC-V datapath
+
 #include <stdio.h>
 #include "shell.h"
 
